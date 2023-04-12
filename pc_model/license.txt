@@ -1,0 +1,11 @@
+Model Information:
+* title:	NoteBook no estilo de ps1
+* source:	https://sketchfab.com/3d-models/notebook-no-estilo-de-ps1-2df262e6815f4c2eb7572607ae5e0321
+* author:	Moustache_Cat (https://sketchfab.com/moustachecat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NoteBook no estilo de ps1" (https://sketchfab.com/3d-models/notebook-no-estilo-de-ps1-2df262e6815f4c2eb7572607ae5e0321) by Moustache_Cat (https://sketchfab.com/moustachecat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
